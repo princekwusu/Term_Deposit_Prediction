@@ -20,10 +20,7 @@
 
 4. Activate the virtual environment:
    ```bash
-   cd myvenv
-   ```
-   ```bash
-   source Scripts/activate
+   source myvenv/Scripts/activate
    ```
 
 5. Install the required packages:
