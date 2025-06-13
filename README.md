@@ -95,6 +95,10 @@ The final model achieved a reasonable balance between **precision** and **recall
 
 ---
 
+[Click here](https://mybinder.org/v2/gh/princekwusu/Term_Deposit_Prediction.git/main?urlpath=%2Fdoc%2Ftree%2Fsrc%2FT_D_prediction.ipynb) to access the running instance of this project.
+
+---
+
 ##  Contribution
 
 Pull requests and suggestions are welcome.  
