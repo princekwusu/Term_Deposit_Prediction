@@ -8,6 +8,8 @@ By leveraging client and campaign data, the predictive model identifies potentia
 
 
 
+
+
 ## Data Description.
 The dataset contains 41,188 rows and 17 features, capturing information such as:
 - Client demographics (e.g., age, job, marital status).
@@ -17,6 +19,8 @@ The dataset contains 41,188 rows and 17 features, capturing information such as:
 The target variable is y(renamed to subscription), which indicates whether a client subscribed to a term deposit (yes or no).
 
 The dataset used in this project is  a bank marketing campaign data and includes client information and campaign outcomes.For more detailed information about the dataset and its variables, [click here](data_files/bank-names.txt).
+
+
 
 
 
@@ -46,6 +50,8 @@ The dataset used in this project is  a bank marketing campaign data and includes
 
 
 
+
+
 ## Key Insights.
 
 - The dataset is highly imbalanced, with only 11% positive subscriptions.
@@ -56,8 +62,12 @@ The dataset used in this project is  a bank marketing campaign data and includes
 
 
 
+
+
 ## Result.
 The final model achieved a reasonable balance between precision and recall, providing actionable insights to support more focused marketing strategies.
+
+
 
 
 
@@ -96,9 +106,13 @@ The final model achieved a reasonable balance between precision and recall, prov
 
 
 
+
+
 ## CONTRIBUTION
 
 Pull requests and suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
 
 
 
